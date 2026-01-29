@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code for fun on things i suddendly think about, from productivity apps to proxies
+I code for fun on things i suddenly think about, from productivity apps to proxies
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@ I code for fun on things i suddendly think about, from productivity apps to prox
 ---
 [![](https://visitcount.itsvg.in/api?id=jjtjtyt6644&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
