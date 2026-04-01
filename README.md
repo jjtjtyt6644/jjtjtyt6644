@@ -37,18 +37,18 @@ I’m a **curiosity-driven developer** who builds at the intersection of utility
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjtjtyt6644&theme=dark&hide_border=false" alt="Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jjtjtyt6644&theme=dark&hide_border=false" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjtjtyt6644&theme=dark&hide_border=false&layout=compact" alt="Languages" />
-</p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=jjtjtyt6644&theme=dark&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=jjtjtyt6644&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtjtyt6644&theme=dark&hide_border=false&layout=compact)
+
+
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=jjtjtyt6644&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
+
+
+[![](https://visitcount.itsvg.in/api?id=jjtjtyt6644&icon=0&color=0)](https://visitcount.itsvg.in)
