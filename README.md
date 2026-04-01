@@ -1,54 +1,54 @@
 # 💫 About Me
 
-I’m a **curiosity-driven developer** who builds whatever comes to mind —  
-from **productivity tools** to **web proxies** and experimental apps.
+I’m a **curiosity-driven developer** who builds at the intersection of utility and experimentation. From **high-performance web proxies** to **experimental productivity tools**, I focus on shipping fast and iterating often.
 
-I enjoy:
-- Turning random ideas into working software
-- Exploring both frontend and backend systems
-- Shipping projects fast and iterating often
+* **Current Mission:** Turning "what-if" ideas into production-ready software.
+
 
 ---
 
-
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Banner" />
+</p>
 
 ---
+
 ## 🛠️ Tech Stack
 
-### Languages & Core Web
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### **Languages & Core Web**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Frameworks & Platforms
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+### **Frameworks & Infrastructure**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 🚀 What I Build
-- Productivity & utility web apps
-- Proxies & networking-related projects
-- Frontend-heavy tools with clean UI
-- Experimental or “what-if” ideas
+* **Networking & Proxies:** Exploring web protocols and traffic routing.
+* **Productivity Tools:** Crafting apps that solve daily friction points.
+* **Frontend UI:** Building clean, responsive, and user-centric interfaces.
+* **Experimental Labs:** Prototyping random ideas to see what sticks.
 
 ---
+
+## 🔗 Links
+* **Portfolio:** [portfolio-five-dusky-78.vercel.app](https://portfolio-five-dusky-78.vercel.app)
+* **GitHub Stats:** Check out my activity below!
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jjtjtyt6644&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=jjtjtyt6644&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtjtyt6644&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjtjtyt6644&theme=dark&hide_border=false" alt="Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jjtjtyt6644&theme=dark&hide_border=false" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjtjtyt6644&theme=dark&hide_border=false&layout=compact" alt="Languages" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jjtjtyt6644&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=jjtjtyt6644&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</p>
