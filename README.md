@@ -32,7 +32,7 @@ I’m a **curiosity-driven developer** who builds at the intersection of utility
 ---
 
 ## 🔗 Links
-* **Portfolio:** [portfoilio-theta-lilac.vercel.app](https://portfoilio-theta-lilac.vercel.app)
+* **Portfolio:** [portfolio-new-lilac-three.vercel.app](https://portfolio-new-lilac-three.vercel.app)
 * **GitHub Stats:** Check out my activity below!
 
 ## 📊 GitHub Stats
