@@ -32,7 +32,7 @@ I’m a **curiosity-driven developer** who builds at the intersection of utility
 ---
 
 ## 🔗 Links
-* **Portfolio:** [portfolio-five-dusky-78.vercel.app][(https://portfolionew-phi-blond.vercel.app])(https://portfoilio-theta-lilac.vercel.app)
+* **Portfolio:** [portfoilio-theta-lilac.vercel.app](https://portfoilio-theta-lilac.vercel.app)
 * **GitHub Stats:** Check out my activity below!
 
 ## 📊 GitHub Stats
