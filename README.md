@@ -28,6 +28,11 @@ I’m a **curiosity-driven developer** who builds at the intersection of utility
 * **Productivity Tools:** Crafting apps that solve daily friction points.
 * **Frontend UI:** Building clean, responsive, and user-centric interfaces.
 * **Experimental Labs:** Prototyping random ideas to see what sticks.
+## Ethical Use
+Some project i made was created to explore the technical limitations of 
+electron-based applications. Users should ensure they are 
+compliant with their local laws and the TOS of any service 
+they interact with before executing this code.
 
 ---
 
