@@ -37,7 +37,7 @@ they interact with before executing this code.
 ---
 
 ## 🔗 Links
-* **Portfolio:** [portfolio-new-lilac-three.vercel.app][([https://portfolio-new-lilac-three.vercel.ap](https://portfolio-new-lilac-three.vercel.app/)p)](https://portfolio-new-lilac-three.vercel.app/)
+* **Portfolio:** [portfolio-new-lilac-three.vercel.app](https://vercel.app)
 * **GitHub Stats:** Check out my activity below!
 
 ## 📊 GitHub Stats
